@@ -8,4 +8,5 @@
 下载IDE-Goland https://www.jetbrains.com/go/download/#section=windows
 激活码 https://www.yht7.com/idea
 
-
+# 笔记
+字符串格式化 fmt.Sprintf
